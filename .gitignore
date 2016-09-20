@@ -3,3 +3,5 @@
 rectify_app/migrations/*
 Rectify/settings.py
 .*/*
+env/
+.gitignore
